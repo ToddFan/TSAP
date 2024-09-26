@@ -1,0 +1,8 @@
+path: path/car_h_0.1_wh_1.5/
+#path: path/irdata_train+test_val+train0.3_car_h_0.1_wh_1.5/
+train: images/train
+val: images/val
+
+# Classes
+nc: 1  # number of classes
+names: ['car']  # class names
